@@ -3,6 +3,13 @@ logs
 *.log
 npm-debug.log*
 
+.DS_Store
+.idea
+.idea/
+
+dist
+dist/*
+
 # Runtime data
 pids
 *.pid
